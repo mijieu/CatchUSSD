@@ -1,0 +1,26 @@
+<resources>
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="fab_margin">24dp</dimen>
+    <dimen name="fab_elevation">6dp</dimen>
+
+    <dimen name="list_margin">8dp</dimen>
+
+    <dimen name="list_item_min_height">32dp</dimen>
+    <dimen name="list_item_padding">16dp</dimen>
+    <dimen name="list_item_response_padding_left">32dp</dimen>
+    <dimen name="list_item_result_min_width">72dp</dimen>
+
+    <dimen name="dialog_content_padding">24dp</dimen>
+    <dimen name="dialog_et_margin_top">6dp</dimen>
+
+    <dimen name="permission_status_left_margin">24dp</dimen>
+    <dimen name="permission_status_top_margin">64dp</dimen>
+    <dimen name="permission_description_left_margin">4dp</dimen>
+    <dimen name="permission_description_top_margin">4dp</dimen>
+    <dimen name="accessibility_description_left_margin">4dp</dimen>
+    <dimen name="accessibility_description_top_margin">4dp</dimen>
+    <dimen name="accessibility_status_top_margin">32dp</dimen>
+    <dimen name="next_button_top_margin">36dp</dimen>
+</resources>
